@@ -2,9 +2,9 @@
 Hint: more than 70 – distinction, more than 60 – first, more than 40 – pass, less than 40 – fail"""
 
 subject1=int(input('Enter mark of Maths:'))
-subject2=int(input('Entr mark of Science:'))
+subject2=int(input('Enter mark of Science:'))
 subject3=int(input('Enter mark of Computer:'))
-subject4=int(input('Enter mark of Engish:'))
+subject4=int(input('Enter mark of English:'))
 total_mark=subject1+subject2+subject3+subject4
 print(f'Total_mark:{total_mark}')
 percentange=total_mark/400*100
